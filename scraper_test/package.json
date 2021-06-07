@@ -1,0 +1,19 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "This Lambda function is for unit test",
+  "main": "_testdriver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaydip Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "html-metadata-parser": "^1.0.3",
+    "chai": "^4.1.2",
+    "lambda-tester": "^3.1.1",
+    "mocha": "^4.0.1"
+  },
+  "repository": {}
+}
